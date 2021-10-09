@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775337999334",
+    "firebase_url": "https://phleby.firebaseio.com",
+    "project_id": "phleby",
+    "storage_bucket": "phleby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775337999334:android:486e1d655a4a0576",
+        "android_client_info": {
+          "package_name": "com.phleby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775337999334-bs5b16eef2c29dn9nigb550l2e6jeni5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQF2Mtb0KIAuHPL0tW4tsA2RlBKdSookg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775337999334-bs5b16eef2c29dn9nigb550l2e6jeni5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
